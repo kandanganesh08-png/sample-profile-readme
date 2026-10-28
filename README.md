@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Kandan Ganesh*
 ##  About Me
-I am a cybersecurity major who is in the cyber jedis club.
+I am a freshmen cybersecurity major at UTSA who is in the cyber jedis club.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
